@@ -1,7 +1,9 @@
 # sublime-inform6
 Inform 6 syntax highlighting for Sublime Text 2/3
 
-This is entirely based on the original syntax definition made by Chris Thomas.
+**Inform 6** is a language for creating text adventures (interactive fiction): http://inform-fiction.org/
+
+This package is based on the original syntax definition made by Chris Thomas.
 
 ## Installation
 
